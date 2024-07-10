@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Click_ Hero</string>
+    <string name="click_hero">Click Hero</string>
+    <string name="aimless_clicking">aimless clicking</string>
 </resources>
