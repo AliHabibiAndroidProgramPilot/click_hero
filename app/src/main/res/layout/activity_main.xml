@@ -23,4 +23,13 @@
         android:layout_marginTop="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textSize="35sp"
+        android:layout_margin="40dp"
+        android:text="@string/click"
+        android:background="@drawable/round_button"
+        android:layout_width="350dp"
+        android:layout_height="350dp"/>
 </androidx.appcompat.widget.LinearLayoutCompat>
