@@ -1,6 +1,5 @@
 package com.click_hero.ali
 
-import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.click_hero.ali.databinding.ActivityMainBinding
